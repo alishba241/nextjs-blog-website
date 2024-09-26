@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { Blog, blogs } from '../mainread/[readmore]/page';
 
 interface blogcardProps {
-  blog:Blog
+  blog:Blog[]
 }
 
 //! getting blogs from Blog component

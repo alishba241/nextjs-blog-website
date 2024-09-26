@@ -285,6 +285,7 @@ interface BlogDetailProps {
   params: {
     readmore: string;
   };
+ 
 }
 
 //! blogs based on categories
